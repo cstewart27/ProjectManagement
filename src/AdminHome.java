@@ -8,6 +8,6 @@ public class AdminHome {
     private JTextField defaultDueDateTextField;
     private JComboBox selectPaymentStatusComboBox;
     private JButton updateCurrentTaskButton;
-    private JButton assignNewTaskButton;
-    private JTextField textField1;
+    private JButton createNewTaskButton;
+    private JTextField taskNameTextField;
 }
